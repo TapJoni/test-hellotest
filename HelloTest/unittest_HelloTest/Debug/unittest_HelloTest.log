@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  unittestHelloTest.cpp
+  unittest_HelloTest.vcxproj -> C:\VSCode\testgtest\HelloTest\Debug\unittest_HelloTest.exe
+  unittest_HelloTest.vcxproj -> C:\VSCode\testgtest\HelloTest\Debug\unittest_HelloTest.pdb (Partial PDB)
